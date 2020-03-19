@@ -1,0 +1,2 @@
+rootProject.name='mcse_f18_017'
+include ':app'
